@@ -1,7 +1,7 @@
 package main
 
 import (
-	demo "./module/base64Demo"
+	demo "./module/outerInput"
 )
 
 func main() {
