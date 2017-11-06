@@ -1,7 +1,7 @@
 package main
 
 import (
-	demo "./module/outerInput"
+	demo "./module/environmentVariable"
 )
 
 func main() {
