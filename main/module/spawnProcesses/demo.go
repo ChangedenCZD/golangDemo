@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 )
 
-/**生产执行进程*/
+/**生产执行进程(不支持Windows)*/
 var p = fmt.Println
 
 func Run() {
