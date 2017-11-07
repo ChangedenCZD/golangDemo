@@ -1,7 +1,7 @@
 package main
 
 import (
-	demo "./module/environmentVariable"
+	demo "./module/exitDemo"
 )
 
 func main() {
